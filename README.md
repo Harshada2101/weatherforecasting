@@ -1,5 +1,4 @@
 # weatherforecasting
-message through weather detecting and warning notification 
 import os 
 import sys
 import requests 
