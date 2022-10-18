@@ -1,4 +1,4 @@
-#weather forecast
+# weatherforecasting
 import os 
 import sys
 import requests 
